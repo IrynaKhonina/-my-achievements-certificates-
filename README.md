@@ -9,7 +9,7 @@
 
 Прогресс изучения на : 
                 1) https://www.freecodecamp.org/irynaKhonina
-                2) https://www.codewars.com/users/IrynaKhonina/badges/large
+                2) https://www.codewars.com/users/IrynaKhonina/badges
 
          
 
